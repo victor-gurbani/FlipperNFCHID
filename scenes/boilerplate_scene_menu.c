@@ -20,7 +20,7 @@ void boilerplate_scene_menu_on_enter(void* context) {
 
     submenu_add_item(
         app->submenu,
-        "Scene 1 (empty)",
+        "Start Reader",
         SubmenuIndexScene1,
         boilerplate_scene_menu_submenu_callback,
         app);
