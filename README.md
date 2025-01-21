@@ -1,6 +1,7 @@
 # FlipperNFCHID
 ## What this is?
-Use this code as a foundation for developing Flipper Zero Applications, change the contents of this file when developing a new project
+**Work in progress** to create an NFC/RFID reader app that sends the UID to the computer via USB HID (or Bluetooth).
+It would be nice to be able to implement a way to use it through _pynfc_.
 <br><br>
 
 ### Features
