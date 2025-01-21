@@ -5,6 +5,7 @@ It would be nice to be able to implement a way to use it through _pynfc_.
 <br><br>
 
 ### Features
+**None yet**
 - Start Screen
 - Menu
 - Button Menu
@@ -34,12 +35,8 @@ Then run the command:
  ```
 The application will be compiled and copied onto your device. 
 
-## Licensing
-This code is open-source and may be used for whatever you want to do with it. 
-
 ## Thank you notes
-- [Roguemaster](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) for distributing the boilerplate 
-- [Flipc](flipc.org) for distributing the boilerplate
-- [Nikita Vostokov](https://github.com/wosk) for code contributions
-- [Alexander Rodriguez](https://github.com/squee72564) for code contributions
-- [derskythe](https://github.com/derskythe) for code contributions
+- [Flipper Zero FAP Boilerplate](https://github.com/leedave/flipper-zero-fap-boilerplate)
+
+## Contribution
+Contributions are welcome! Create a pull request. 
